@@ -1,6 +1,11 @@
-## Your Name
+## SANDY POUNOUSSAMY
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+Junior Software Developer
+Discovered the tech world via advertising
+Appetite to understand how things behind the scenes
+Keen to create my own solution and fix softwares bug instead of just reporting it to another team
 
 ## Projects
 
@@ -11,15 +16,20 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**eBay Classified Group - Gumtree.com** (Aug-18 to Nov-19)  
+_Programmatic Optimisation Manager_
 
-- Any experience relevent to software development
+- Daily use of developers tools, used to identify technical issues and running first line of troubleshooting for all 3rd party advertising technologies, as well as a good understanding of server requests and responses
+- Experienced with working with an Agile team and processes - Regular participation in ideation, prioritization and refinement sessions, as well as joining AdTech team retros and stand-up
+- Creating User Stories and technical tickets ready for the Dev team to prioritise, writing acceptance criteria for QA review and raising bugs in a detailed manner, saving the Dev team considerable time when reproducing
+- Good understanding of HTML and JS structure and syntax allowing me to advise partners on how to implement their tech best on our site and currently focusing on improving these further by joining our Dev team during code deep dives
+- Assited the Dev team with testing multiple ads technologies on both QAs and Production environments
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**eBay Classified Group - Gumtree.com** (Oct-17 to Aug-18)  
+_Technical Operations Specialist_
 
-- Any experience relevent to software development
+- Support the team with liaising with Ad Tech vendor and A/B testing of new Rich Media formats on QAs and production environments
+- Key technical point of contact for ad tech partners, involved in the implementation of new ad tech products as well as the in-life management and optimisation – heavy collaboration with website developers to make sure ad monetization was not at risk during new releases
 
 ## Skills
 
