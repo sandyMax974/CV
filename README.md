@@ -3,7 +3,7 @@
 I'm a passionate Junior Software Developer, who discovered the web development world via the advertising industry. Throughout my career in AdTech, I acquired a voracious appetite in understanding how softwares and sites function behind the scenes. I'm now super keen to start creating my own solutions, dive into more complex codebases and fix bugs with my own hands.
 
 ----------------------------------------------
-![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyMax974&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyMax974&layout=compact)
+![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyMax974&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyMax974&theme=gruvbox)
 ----------------------------------------------
 
 ## Projects
