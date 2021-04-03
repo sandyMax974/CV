@@ -4,7 +4,7 @@ I'm a passionate Junior Software Developer, who discovered the web development w
 
 <section>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sandyMax974&show_icons=true&theme=gruvbox"/> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyMax974&layout=compact&theme=gruvbox"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyMax974&layout=compact&theme=gruvbox"/>
 </section>
 
 ## Projects
