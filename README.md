@@ -1,9 +1,9 @@
+Page under construction...
+
 ## SANDY POUNOUSSAMY
 
-* Junior Software Developer
-* Discovered the tech world via advertising
-* Appetite to understand how things behind the scenes
-* Keen to create my own solution and fix softwares bug instead of just reporting it to another team
+I'm a passionate Junior Software Developer, who discovered the web development world via the advertising industry. Throughout my career in AdTech, I acquired a voracious appetite in understanding how softwares and sites function behind the scenes.
+I'm now super keen to start creating my own solutions, dive into more complex codebases and fix bugs with my own hands.
 
 ## Projects
 
@@ -39,25 +39,6 @@ _Junior Display Campaign Manager_
 
 - Provide expert advice, support and consultancy to the sales / product team and clients to achieve campaign success by sharing knowledge regarding availability of inventory and product capabilities
 - Experience in using Google's DFP ad server across all platform and devices to traffic all campaign assets including rich media, HTML and JavaScript, generate conversion pixels, retargeting pixels, create audiences segments based on campaign
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
