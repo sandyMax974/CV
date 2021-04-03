@@ -1,4 +1,4 @@
-<h2 color="blue">SANDY POUNOUSSAMY</h2>
+## SANDY POUNOUSSAMY
 
 I'm a passionate Junior Software Developer, who discovered the web development world via the advertising industry. Throughout my career in AdTech, I acquired a voracious appetite in understanding how softwares and sites function behind the scenes. I'm now super keen to start creating my own solutions, dive into more complex codebases and fix bugs with my own hands.
 
