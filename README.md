@@ -42,10 +42,10 @@ _Technical Operations Specialist_
 - I'm a big fan of Japanese animes such as, Attack On Titans, My Hero Acadmia or Demon Slayer to only name a few. I also collect comics (mainly the classics DC's and Marvel's) and I'm currently building my own little librairy bt I'm sadly running out of space... 
 - And when it comes to moving my body, I enjoy a good boxing / kick-boxing session and the occasional sparring :boxing_glove: :martial_arts_uniform:
 
+## GitHub Stats
 
-----------------------------------------------
-<section>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sandyMax974&show_icons=true&theme=gruvbox"/> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyMax974&layout=compact&theme=gruvbox"/>
-</section>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandyMax974&show_icons=true&theme=gruvbox"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyMax974&layout=compact&theme=gruvbox"/>
+</p>
 
