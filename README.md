@@ -9,8 +9,8 @@ I'm now super keen to start creating my own solutions, dive into more complex co
 
 | Name                         | Description       | Tech/tools        | Testing |
 | ---------------------------- | ----------------- | ----------------- | ------- |
-| **Chitter** | Solo project with 4 weeks experience modelling a website | Ruby, Sinatra, PostgreSQl, HTML/CSS | RSpec, Capybara  |
-| **MakersBnB** | 5 developers' project with 5 weeks experience modelling a website | Ruby, Sinatra, PostgreSQl, BCrypt, Google Maps API | RSpec, Capybara |
+| **Chitter** | Solo project with 4 weeks experience modelling a website | Ruby, Sinatra, PostgreSQL, HTML/CSS | RSpec, Capybara  |
+| **MakersBnB** | 5 developers' project with 5 weeks experience modelling a website | Ruby, Sinatra, PostgreSQl, BCrypt, Google Maps API | RSpec, Capybara, Selenium-Driver |
 | **AceBook** | 6 developpers' project with 7 weeks experience modelling a website using a new framework | Ruby on Rails, PostgreSQL, Heroku | RSpec, Capybara, CircleCI (CI/CD) |
 | **Final project** | A webapp to do x. | React, Jest, etc. |
 
