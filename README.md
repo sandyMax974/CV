@@ -52,3 +52,6 @@ A 16-weeks full-time course training software engineers, focusing on TDD (Test-D
 - I'm obsessed with food programs like Masterchef Professionals, Chef's Table, Great British Menu, etc. I like trying to cook new dishes as seen, but there is nothing I enjoy more than one of a kind dinning experience :bento: :stew: :sushi: :cut_of_meat:
 - I'm a big fan of Japanese animes such as, Attack On Titans, My Hero Acadmia or Demon Slayer to only name a few. I also collect comics (mainly the classics DC's and Marvel's) and I'm currently building my own little librairy bt I'm sadly running out of space... 
 - And when it comes to moving my body, I enjoy a good boxing / kick-boxing session and the occasional sparring :boxing_glove: :martial_arts_uniform:
+
+[![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyMax974)]
+
