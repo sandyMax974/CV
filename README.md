@@ -45,7 +45,7 @@ _Technical Operations Specialist_
 ## GitHub Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandyMax974&show_icons=true&theme=gruvbox"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyMax974&layout=compact&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandyMax974&show_icons=true&theme=gruvbox" width="400"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyMax974&layout=compact&theme=gruvbox" width="400"/>
 </p>
 
