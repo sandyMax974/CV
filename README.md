@@ -7,7 +7,7 @@ I'm a passionate Junior Software Developer, who discovered the web development w
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyMax974&layout=compact&theme=gruvbox"/>
 </section>
 
-## Projects
+<br/>## Projects
 
 | Name                         | Description       | Tech/tools        | Testing |
 | ---------------------------- | ----------------- | ----------------- | ------- |
