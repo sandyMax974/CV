@@ -1,6 +1,6 @@
 Page under construction...
 
-## SANDY POUNOUSSAMY
+## SANDY POUNOUSSAMY :lion_face:
 
 I'm a passionate Junior Software Developer, who discovered the web development world via the advertising industry. Throughout my career in AdTech, I acquired a voracious appetite in understanding how softwares and sites function behind the scenes.
 I'm now super keen to start creating my own solutions, dive into more complex codebases and fix bugs with my own hands.
@@ -37,30 +37,18 @@ _Technical Operations Specialist_
 **eBay Classified Group - Gumtree.com** (Jan-17 to Oct-17)  
 _Junior Display Campaign Manager_
 
-- Provide expert advice, support and consultancy to the sales / product team and clients to achieve campaign success by sharing knowledge regarding availability of inventory and product capabilities
-- Experience in using Google's DFP ad server across all platform and devices to traffic all campaign assets including rich media, HTML and JavaScript, generate conversion pixels, retargeting pixels, create audiences segments based on campaign
-
 ## Education
 
 #### Makers Academy (Jan-21 to Apr-21)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+A 16-weeks full-time course training software engineers, focusing on TDD (Test-Driven Development), long term growth and Agile team collaboration.
 
 #### University of Montpellier 3 (2008 to 2012)
-
 - A year abroad, studying International Project Management at the Suzhou University of Sciences and Technologies, in Suzhou, Jiangsu, China
 - Bachelor's in Applied Foreign Language, specialising in English and Chinese
 - Exchange summer spent itraining in Chinese at the Renmin University of China, in Beijin China
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- I'm obsessed with food programs like Masterchef Professionals, Chef's Table, Great British Menu, etc. I like trying to cook new dishes as seen, but there is nothing I enjoy more than one of a kind dinning experience :bento::stew::sushi::cut_of_meat:
+- I'm a big fan of Japanese animes such as, Attack On Titans, My Hero Acadmia or Demon Slayer to only name a few. I also collect comics (mainly the classics DC's and Marvel's) and I'm currently building my own little librairy bt I'm sadly running out of space... 
+- And when it comes to moving my body, I enjoy a fitness boxing / kick-boxing and the occasional sparring :boxing_glove::martial_arts_uniform:
