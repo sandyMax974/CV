@@ -48,23 +48,3 @@ _Technical Operations Specialist_
   <img src="https://github-readme-stats.vercel.app/api?username=sandyMax974&show_icons=true&theme=gruvbox" height="170" style="margin-right: 10px"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyMax974&layout=compact&theme=gruvbox" height="170"/>
 </p>
-
-
-
-One of the leading Software Developers bootcamp in Europe, focusing on self-directed learning, they teach life-long learning skills and aim at training confident and independent software engineers ready to hit the ground running.
-
-The curriculum is based around three major goals, divided in training units: Make a software, long-term growth, team collaboration.
-
-These are practiced through building projects using Ruby or JavaScript, learning how to build them in the right way, following the best industry practices. There is a heavy focus on collaboration and knowledge sharing, with daily pairing and group work engineering projects.
-
-### Curriculum
-
-* Software Fundamentals: Test-Driven Development and Object Oriented Programming
-* Introduction to the Web and Data Persistence
-* JavaScript, Front-end Development and Engineering Project I
-* Engineering Project II
-* Software Craft
-* Engineering Project III
-
-*Visit my GitHub to see all my projects and tech stack used*
-
