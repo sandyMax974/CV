@@ -2,7 +2,7 @@
 
 I'm a passionate Junior Software Developer, who discovered the web development world via the advertising industry. Throughout my career in AdTech, I acquired a voracious appetite in understanding how softwares and sites function behind the scenes. I'm now super keen to start creating my own solutions, dive into more complex codebases and fix bugs with my own hands.
 
-## Projects
+## Projects (curriculum-based)
 
 | Name                         | Description       | Tech/tools        | Testing |
 | ---------------------------- | ----------------- | ----------------- | ------- |
@@ -10,7 +10,7 @@ I'm a passionate Junior Software Developer, who discovered the web development w
 | **Chitter** | Solo project with 4 weeks experience modelling a website | Ruby, Sinatra, PostgreSQL, HTML/CSS | RSpec, Capybara  |
 | **MakersBnB** | 5 developers' project with 5 weeks experience modelling a website | Ruby, Sinatra, PostgreSQl, BCrypt, Google Maps API | RSpec, Capybara, Selenium-Driver |
 | [**AceBook**](https://github.com/sandyMax974/acebook-markzuckerbergisalizard) | 6 developpers' project with 7 weeks experience modelling a website using a new framework | Ruby on Rails, PostgreSQL, Heroku | RSpec, Capybara, CircleCI (CI/CD) |
-| [**TechTest: Bank**](https://github.com/sandyMax974/bank_tech_test) | Solo tech test week with th eaim of writting cleanest code possible | Ruby | RSpec, Simple-cov |
+| [**TechTest: Bank**](https://github.com/sandyMax974/bank_tech_test) | Solo tech test week with the aim of writting cleanest code possible | Ruby | RSpec, Simple-cov |
 
 ## Experience
 
