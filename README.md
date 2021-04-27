@@ -9,7 +9,7 @@ I'm a passionate Junior Software Developer, who discovered the web development w
 | [**Boris Bike**](https://github.com/sandyMax974/boris_bike_challenge) | Solo project aiming at practicing TTD and basic OOP | Ruby | RSpec, Simple-cov |
 | **Chitter** | Solo project with 4 weeks experience modelling a website | Ruby, Sinatra, PostgreSQL, HTML/CSS | RSpec, Capybara  |
 | **MakersBnB** | 5 developers' project with 5 weeks experience modelling a website | Ruby, Sinatra, PostgreSQl, BCrypt, Google Maps API | RSpec, Capybara, Selenium-Driver |
-| **AceBook** | 6 developpers' project with 7 weeks experience modelling a website using a new framework | Ruby on Rails, PostgreSQL, Heroku | RSpec, Capybara, CircleCI (CI/CD) |
+| [**AceBook**](https://github.com/sandyMax974/acebook-markzuckerbergisalizard) | 6 developpers' project with 7 weeks experience modelling a website using a new framework | Ruby on Rails, PostgreSQL, Heroku | RSpec, Capybara, CircleCI (CI/CD) |
 | [**TechTest: Bank**](https://github.com/sandyMax974/bank_tech_test) | Solo tech test week with th eaim of writting cleanest code possible | Ruby | RSpec, Simple-cov |
 
 ## Experience
