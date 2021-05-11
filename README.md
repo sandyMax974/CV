@@ -11,7 +11,7 @@ I'm a passionate Junior Software Developer, who discovered the web development w
 | **MakersBnB** | 5 developers' project with 5 weeks experience modelling a website | Ruby, Sinatra, PostgreSQl, BCrypt, Google Maps API | RSpec, Capybara, Selenium-Driver |
 | [**AceBook**](https://github.com/sandyMax974/acebook-markzuckerbergisalizard) | 6 developpers' project with 7 weeks experience modelling a website using a new framework | Ruby on Rails, PostgreSQL, Heroku | RSpec, Capybara, CircleCI (CI/CD) |
 | [**TechTest: Bank**](https://github.com/sandyMax974/bank_tech_test) | Solo tech test week with the aim of writting cleanest code possible | Ruby | RSpec, Simple-cov |
-| **Cookwars** [Front-end](https://github.com/sandyMax974/final-project-frontend)/[Back-end](https://github.com/sandyMax974/final-project-backend)|6 developers' final project, designed from scratch, to deliver in 10 days, using a new tech stack |PERN (PostgreSQL, React, Express, Node.js)||
+| **Cookwars** ([Front-end](https://github.com/sandyMax974/final-project-frontend)/[Back-end](https://github.com/sandyMax974/final-project-backend))|6 developers' final project, designed from scratch, to deliver in 10 days, using a new tech stack |PERN (PostgreSQL, React, Express, Node.js)||
 
 ## Experience
 
