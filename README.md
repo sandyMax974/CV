@@ -11,24 +11,24 @@ I'm a passionate Junior Software Developer, who discovered the web development w
 ## Languages and tools
 
 <p float="left">
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/HTML5_logo.png" height="50" style="margin-right: 5px"/> 
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/CSS_logo.png" height="50" style="margin-right: 5px"/> 
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/JavaScript_logo_1174949.png" height="50" style="margin-right: 5px"/> 
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Ruby_logo.png" height="50" style="margin-right: 5px"/> 
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/HTML5_logo.png" height="40" style="margin-right: 5px"/> 
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/CSS_logo.png" height="40" style="margin-right: 5px"/> 
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/JavaScript_logo_1174949.png" height="40" style="margin-right: 5px"/> 
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Ruby_logo.png" height="40" style="margin-right: 5px"/> 
 </p>
 <p float="left">
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Git-Icon.png" height="50" style="margin-right: 5px"/> 
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/bootstrap.png" height="50" style="margin-right: 5px"/> 
-  <img src="" height="50" style="margin-right: 5px"/> 
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/node-js.jpeg" height="50" style="margin-right: 5px"/> 
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/React.js_logo_1174949.png" height="50" style="margin-right: 5px"/> 
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/rails_logo.png" height="50" style="margin-right: 5px"/> 
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/express_logo.png" height="50" style="margin-right: 5px"/>
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/sinatra_logo.png" height="50" style="margin-right: 5px"/>
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/postgresql.png" height="50" style="margin-right: 5px"/>
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Git-Icon.png" height="40" style="margin-right: 5px"/> 
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/bootstrap.png" height="40" style="margin-right: 5px"/> 
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/semantic-ui.svg" height="40" style="margin-right: 5px"/> 
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/node-js.jpeg" height="40" style="margin-right: 5px"/> 
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/React.js_logo_1174949.png" height="40" style="margin-right: 5px"/> 
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/rails_logo.png" height="40" style="margin-right: 5px"/> 
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/express_logo.png" height="40" style="margin-right: 5px"/>
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/sinatra_logo.png" height="40" style="margin-right: 5px"/>
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/postgresql.png" height="40" style="margin-right: 5px"/>
 <p float="left">
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Logo_jasmine.png" height="50" style="margin-right: 5px"/>
-  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/rspec_logo.png" height="50" style="margin-right: 5px"/>
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Logo_jasmine.png" height="40" style="margin-right: 5px"/>
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/rspec_logo.png" height="40" style="margin-right: 5px"/>
 </p>
 
 ## GitHub Stats
