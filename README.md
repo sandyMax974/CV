@@ -4,7 +4,8 @@ I'm a passionate Junior Software Developer, who discovered the web development w
 
 <p float="left">
   <a href="https://www.linkedin.com/in/sandy-pounoussamy-69734269/" target="blank"><img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/linkedin_logo.png" height="50" style="margin-right: 5px"/></a> 
-  
+</p>
+<p float="left">
   <a href="https://github.com/sandyMax974/sandyMax974/blob/master/CV" target="blank"><img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/github.png" height="50" style="margin-right: 5px"/></a> 
 </p>
 
