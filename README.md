@@ -29,7 +29,8 @@ I'm a passionate Junior Software Developer, who discovered the web development w
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/express_logo.png" height="30" style="margin-right: 5px"/>
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/sinatra_logo.png" height="30" style="margin-right: 5px"/>
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/postgresql.png" height="30" style="margin-right: 5px"/>
-### Testing
+</p>
+### Languages
 <p float="left">
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Logo_jasmine.png" height="30" style="margin-right: 5px"/>
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/rspec_logo.png" height="30" style="margin-right: 5px"/>
