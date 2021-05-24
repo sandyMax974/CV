@@ -2,7 +2,7 @@
 
 I'm a passionate Junior Software Developer, who discovered the web development world via the advertising industry. Throughout my career in AdTech, I acquired a voracious appetite in understanding how softwares and sites function behind the scenes. I'm now super keen to start creating my own solutions, dive into more complex codebases and fix bugs with my own hands.
 
-## More
+## Online CV
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandy-pounoussamy-69734269/" target="blank"><img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/linkedin_logo.png" height="30" style="margin-right: 5px"/></a> 
