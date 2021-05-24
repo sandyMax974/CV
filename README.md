@@ -11,14 +11,18 @@ I'm a passionate Junior Software Developer, who discovered the web development w
 
 ## Technologies
 
-### Languages
+<h3 align="left">
+  Languages
+</h3>
 <p float="left">
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/HTML5_logo.png" height="30" style="margin-right: 5px"/> 
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/CSS_logo.png" height="30" style="margin-right: 5px"/> 
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/JavaScript_logo_1174949.png" height="30" style="margin-right: 5px"/> 
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Ruby_logo.png" height="30" style="margin-right: 5px"/> 
 </p>
-### Frameworks and Tools
+<h3 align="left">
+  Frameworks and Tools
+</h3>
 <p float="left">
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Git-Icon.png" height="30" style="margin-right: 5px"/> 
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/bootstrap.png" height="30" style="margin-right: 5px"/> 
@@ -30,7 +34,9 @@ I'm a passionate Junior Software Developer, who discovered the web development w
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/sinatra_logo.png" height="30" style="margin-right: 5px"/>
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/postgresql.png" height="30" style="margin-right: 5px"/>
 </p>
-### Languages
+<h3 align="left">
+  Testing
+</h3>
 <p float="left">
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Logo_jasmine.png" height="30" style="margin-right: 5px"/>
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/rspec_logo.png" height="30" style="margin-right: 5px"/>
