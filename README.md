@@ -1,6 +1,7 @@
 # Hi there, I'm Sandy
 
-I'm a passionate and highly motivated Junior Software Developer, who discovered the web development world via the advertising industry. Throughout my career in AdTech, I acquired a voracious appetite in understanding how softwares and sites function behind the scenes. I'm now super keen to start creating my own solutions, dive into more complex codebases and fix bugs with my own hands.
+I'm a passionate and highly motivated Junior Software Developer, who discovered the web development world via the advertising industry. Throughout my career in AdTech, I acquired a voracious appetite in understanding how softwares and sites function behind the scenes which led to me developing a passion for coding. 
+After completing Makers Academy in April, I'm super keen to start creating my own solutions, dive into more complex codebases and fix bugs with my own hands.
 
 ## Online CV
 
