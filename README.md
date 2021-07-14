@@ -27,6 +27,7 @@ I'm a passionate and highly motivated Junior Software Developer, who discovered 
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/express_logo.png" height="30" style="margin-right: 5px"/>
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/sinatra_logo.png" height="30" style="margin-right: 5px"/>
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/postgresql.png" height="30" style="margin-right: 5px"/>
+  <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/postman-logo.png" height="30" style="margin-right: 5px"/>
 </p>
 <p float="left">
   <img src="https://github.com/sandyMax974/sandyMax974/blob/master/img/Logo_jasmine.png" height="30" style="margin-right: 5px"/>
