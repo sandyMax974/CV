@@ -1,6 +1,8 @@
 ## SANDY POUNOUSSAMY
 
-I'm a passionate Junior Software Developer, who discovered the web development world via the advertising industry. Throughout my career in AdTech, I acquired a voracious appetite in understanding how softwares and sites function behind the scenes. I'm now super keen to start creating my own solutions, dive into more complex codebases and fix bugs with my own hands.
+I'm a junior software developer with a background in digital advertising. Early on in my career, I started to grow an appetite for the tech aspect of it. Being a fast-learner and curious individual, I rapidly progressed to become the company's AdTech implementation expert. I got involved in long term strategical projects and worked heavily with engineers, which helped developed a passion for coding.
+
+This led me to start my career change, and after a year to prepare for the transition, I enrolled at Makers Academy in early January. A bootcamp focusing on language agnostic software design principles and agile best practices. Having graduated in April, I'm ready to take on new challenges and embark on my Junior Software Developer's adventure, super keen to start creating my own solutions, dive into more complex codebases and fix bugs with my own hands.
 
 ## Projects (curriculum-based)
 
@@ -15,17 +17,19 @@ I'm a passionate Junior Software Developer, who discovered the web development w
 
 ## Experience
 
-**eBay Classified Group - Gumtree.com** (Aug-18 to Nov-19)  
-_Programmatic Optimisation Manager_
+**eBay Classified Group - Gumtree.com**   
+
+Gumtree is one of the UK’s largest online classifieds sites serving communities up and down the UK, helping people find what they need most, affordably and locally. They provide a platform for people to connect around a life stage, a need, passion or interest.
+
+_Programmatic Optimisation Manager_ (Aug-18 to Nov-19)
 
 - Experienced with working with an Agile team and processes - Regular participation in ideation, prioritization and refinement sessions, as well as joining AdTech team retros and stand-up
 - Creating User Stories and technical tickets ready for the Dev team to prioritise, writing acceptance criteria for QA review and raising bugs in a detailed manner, saving the Dev team considerable time when reproducing
 - Daily use of developers tools, used to identify technical issues and running first line of troubleshooting for all 3rd party advertising technologies, as well as a good understanding of server requests and responses
 - Good understanding of HTML and JS structure and syntax allowing me to advise partners on how to implement their tech best on our site and currently focusing on improving these further by joining our Dev team during code deep dives
 - Assited the Dev team with testing multiple ads technologies on both QAs and Production environments
-
-**eBay Classified Group - Gumtree.com** (Oct-17 to Aug-18)  
-_Technical Operations Specialist_
+ 
+_Technical Operations Specialist_ (Oct-17 to Aug-18)  
 
 - Support the team with liaising with Ad Tech vendor and A/B testing of new Rich Media formats on QAs and production environments
 - Key technical point of contact for ad tech partners, involved in the implementation of new ad tech products as well as the in-life management and optimisation – heavy collaboration with website developers to make sure ad monetization was not at risk during new releases
